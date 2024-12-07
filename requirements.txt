@@ -1,8 +1,8 @@
 
 streamlit
 mediapipe==0.10.18
-opencv-python==4.8.0.76
+opencv-python
 numpy
 python-dotenv
 pygame
-opencv-contrib-python
+
